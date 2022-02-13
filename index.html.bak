@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>THÔNG TIN</title>
+		<meta charset="utf-8">
+		<link rel="icon" type="image/x-icon" href="favicon.gif"
+	</head>
+	<body>
+		<h2>THÔNG TIN CÁ NHÂN</h2>
+		<hr color="blue" size="3">
+		<img src="no_avatar.png" align="left" width= "170">
+		<p>Họ và Tên:  <b>Huỳnh Thị Kim Ngân</b></p>
+		<p>Ngày tháng năm sinh: 02/07/2001</p>
+		<p>Địa chỉ: Phú Bình - Phú Tân - An Giang.</p>
+		<P>Nơi làm việc: Khoa Công Nghệ Thông Tin, Trường đại học An Giang.</P>
+		<p>Điện Thoại: <a href= "tel:+8412345678">012345678</a></p>
+		<p>Email: <i><a href="mailto:htkngan0207@gmail.com">htkngan0207@gmail.com</a></i></p>
+		<p>Sở thích:</p>
+		
+		<ul type="circle">
+			<li>Thể thao</li>
+			<li>Du lịch</li>
+			<li>Lướt web, đọc sách báo,...</li>
+		
+		
+		</ul>
+		
+		<p>Các trang Web yêu thích:</p>
+		<table border="1" width="100%">
+			<tr>
+				<td width="50%"><a href="http://tuoitre.vn" target="_blank">Tuổi Trẻ Online </a></td>
+				<td width="50%"><a href="http://thanhnien.vn" target="_blank">Thanh Niên Online</a></td>
+			</tr>
+				
+			
+			<tr>
+				<td><a href="http://vnexpress.net" target="_blank">VnExpress</a></td>
+				<td><a href="http://24h.com.vn" target="_blank">24h.com.vn</a></td>
+			</tr>
+			
+			<tr>
+				<td><a href="http://thegioididong.com" target="_blank">Thế Giới Di Động</a></td>
+				<td><a href="http://nguyenkim.com" target="_blank">Siêu Thị Nguyễn Kim</a></td>
+			</tr>
+		</table>
+		
+	</body>
+</html>
